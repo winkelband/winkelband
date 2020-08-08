@@ -1,5 +1,6 @@
 ### Hello 🌍
 
+```toml
 [hello.world]
   world = '&#127757;'
   poem = 'hello'
@@ -8,6 +9,7 @@
     break
   else:
     KeepPeace()
+```
 
 <!--
 **winkelband/winkelband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
