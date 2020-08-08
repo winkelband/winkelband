@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hello 🌍
+
+[hello.world]
+  world = '&#127757;'
+  poem = 'hello'
+  method = 'love'
+  if war:
+    break
+  else:
+    KeepPeace()
 
 <!--
 **winkelband/winkelband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
