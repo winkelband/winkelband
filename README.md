@@ -11,6 +11,10 @@
     KeepPeace()
 ```
 
+Are you interested in Archaeology & Cultural Heritage?  
+→ Checkout **Arbeitskreis Archäologische Wissenschaften e. V.**  
+🌐 [https://akarchwiss.de](https://akarchwiss.de) ⚡ [https://gitlab.com/akarchwiss](https://gitlab.com/akarchwiss)
+
 <!--
 **winkelband/winkelband** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
